@@ -1,0 +1,15 @@
+2022-09-08 16:59:06,394 Running colabfold 1.2.0 (b532e910b15434f707f0b7460abc25c70fcb9b26)
+2022-09-08 16:59:06,409 Found 5 citations for tools or databases
+2022-09-08 16:59:13,833 Query 1/1: seq_custom (length 109)
+2022-09-08 16:59:14,010 Running model_3 with seed 6650
+2022-09-08 17:02:38,419 model_3 took 194.8s (3 recycles) with pLDDT 79.6 and ptmscore 0.602
+2022-09-08 17:02:45,782 Running model_4 with seed 6650
+2022-09-08 17:02:57,084 model_4 took 9.8s (3 recycles) with pLDDT 74.8 and ptmscore 0.589
+2022-09-08 17:03:02,882 Running model_5 with seed 6650
+2022-09-08 17:03:14,126 model_5 took 9.8s (3 recycles) with pLDDT 75.8 and ptmscore 0.593
+2022-09-08 17:03:19,922 Running model_1 with seed 6650
+2022-09-08 17:03:31,126 model_1 took 9.8s (3 recycles) with pLDDT 72.6 and ptmscore 0.561
+2022-09-08 17:03:36,712 Running model_2 with seed 6650
+2022-09-08 17:03:47,878 model_2 took 9.8s (3 recycles) with pLDDT 75.3 and ptmscore 0.605
+2022-09-08 17:03:53,615 reranking models by ptmscore
+2022-09-08 17:03:54,745 Done
